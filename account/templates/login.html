@@ -1,0 +1,23 @@
+{% extends 'main.html' %}
+{% load static %}
+{% block title %}<title>Kider - Login </title>{% endblock %}
+
+
+{% block content %}
+
+
+<link rel="stylesheet" href="{% static "css/sing.css" %}" media="screen" type="text/css" />
+
+<div id="login-box">
+  <div class="left">
+    <h1>Login</h1>
+        <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+            <input type="submit" class='btn btn-primary rounded-pill px-3 d-none d-lg-block' name="signup_submit" value="Log in"  />
+        </form>
+  </div>
+
+</div>
+
+{% endblock %}

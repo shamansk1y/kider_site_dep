@@ -1,0 +1,29 @@
+{% extends 'main.html' %}
+{% load static %}
+{% block title %}<title>Kider - Schedule</title>{% endblock %}
+
+{% block content %}
+
+<!-- Call To Action Start -->
+<div class="container-xxl py-5">
+    <div class="container">
+        <div class="bg-light rounded">
+            <div class="row g-0">
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s" style="min-height: 400px;">
+                    <div class="position-relative h-100">
+                        <img class="position-absolute w-100 h-100 rounded" src='{{ schedule.image.url }}' style="object-fit: cover;">
+                    </div>
+                </div>
+                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                    <div class="h-100 d-flex flex-column justify-content-center p-5">
+                        <h1 class="mb-4">{{ schedule.title }}</h1>
+                        <p class="mb-4">{{ schedule.desc }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Call To Action End -->
+
+{% endblock %}
