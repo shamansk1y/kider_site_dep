@@ -21,7 +21,7 @@ context data for all pages.
 """
 
 from django.shortcuts import render, redirect
-from main_page.views import get_common_context
+from main_page.context_data import get_common_context
 from .forms import UserRegistration, UserLogin
 from django.contrib.auth import login, authenticate, logout
 

@@ -18,57 +18,10 @@ and saves the data if it is valid.
 """
 
 from django.shortcuts import render, redirect
+from .context_data import get_common_context, get_page_context
 from .forms import MakeAppointmentForm, SubscriptionForm, ContactUsForm
 from .models import Subscription, ContactUs, Appointment
 from django.contrib.auth.decorators import login_required, user_passes_test
-from .forms import MakeAppointmentForm, SubscriptionForm, ContactUsForm
-from .models import Slider, Team, About, Testimonial, Classes, Facilities, Call, Gallery, Contacts, Schedule, Headlines
-
-
-def get_common_context():
-    """
-    Gets the common page context used across multiple pages of the site.
-    :return:
-    """
-    return {
-        'slider': Slider.objects.filter(is_visible=True),
-        'team': Team.objects.all()[:3],
-        'about': About.objects.all(),
-        'testimonial': Testimonial.objects.filter(is_visible=True),
-        'classes': Classes.objects.all().order_by('?')[:6],
-        'facilities': Facilities.objects.all(),
-        'call': Call.objects.all(),
-        'gallery': Gallery.objects.all().order_by('?')[:6],
-        'contacts': Contacts.objects.all(),
-        'make_appointment': MakeAppointmentForm(),
-        'subscription': SubscriptionForm(),
-        'contact_us': ContactUsForm(),
-        'schedule': Schedule.objects.all(),
-        'headlines': Headlines.objects.all(),
-    }
-
-
-def get_page_context(request):
-    """
-    Gets the page context with the current request taken into account.
-
-    Args:
-    - request: HttpRequest object.
-
-    Returns:
-    - tuple of two elements:
-        - dictionary containing data specific to the current request:
-            'user_manager': True if the user is in the 'manager' group, False otherwise.
-            'user_auth': True if the user is authenticated, False otherwise.
-        - dictionary containing the common page context obtained from the get_common_context function.
-    """
-    data = {
-        'user_manager': request.user.groups.filter(name='manager').exists(),
-        'user_auth': request.user.is_authenticated,
-    }
-    context = get_common_context()
-    data.update(context)
-    return data, context
 
 def is_manager(user):
     return user.groups.filter(name='manager').exists()

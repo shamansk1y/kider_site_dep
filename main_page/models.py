@@ -2,9 +2,6 @@ from django.db import models
 from .utils import get_file_name
 
 
-
-
-
 class Team(models.Model):
     """
     A model representing a team member.
