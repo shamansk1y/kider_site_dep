@@ -33,17 +33,17 @@ def get_common_context():
     return {
         'slider': Slider.objects.filter(is_visible=True),
         'team': Team.objects.all()[:3],
-        'about': About.objects.get(),
+        'about': About.objects.all(),
         'testimonial': Testimonial.objects.filter(is_visible=True),
         'classes': Classes.objects.all().order_by('?')[:6],
-        'facilities': Facilities.objects.get(),
-        'call': Call.objects.get(),
+        'facilities': Facilities.objects.all(),
+        'call': Call.objects.all(),
         'gallery': Gallery.objects.all().order_by('?')[:6],
-        'contacts': Contacts.objects.get(),
+        'contacts': Contacts.objects.all(),
         'make_appointment': MakeAppointmentForm(),
         'subscription': SubscriptionForm(),
         'contact_us': ContactUsForm(),
-        'schedule': Schedule.objects.get(),
+        'schedule': Schedule.objects.all(),
         'headlines': Headlines.objects.all(),
     }
 
