@@ -1,0 +1,2858 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2023-02-18T15:39:23.951Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "carousel-1",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2023-02-18T15:43:40.088Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "carousel-2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2023-02-19T17:37:57.456Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Learn More About Our Work And Our Cultural Activities",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2023-02-19T17:47:40.046Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Regina Falangi",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2023-02-19T17:48:11.184Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Ken Adams",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2023-02-19T17:48:35.344Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Jane Doe",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2023-02-19T18:09:09.477Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "Sara Wilsson",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2023-02-19T18:10:00.231Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "Saul Goodman",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2023-02-19T18:10:58.285Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "3",
+        "object_repr": "Unknow artist",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2023-02-19T18:12:00.975Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "Saul Goodman",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2023-02-19T18:12:01.440Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "3",
+        "object_repr": "Unknow artist",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2023-02-19T18:42:50.459Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "1",
+        "object_repr": "Art & Drawing",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2023-02-19T18:43:58.484Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "2",
+        "object_repr": "Color Management",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2023-02-19T18:44:11.164Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "2",
+        "object_repr": "Color Management",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2023-02-19T18:44:47.970Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "3",
+        "object_repr": "Athletic & Dance",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2023-02-19T18:45:26.518Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "4",
+        "object_repr": "Language & Speaking",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2023-02-19T18:45:56.605Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "5",
+        "object_repr": "Religion & History",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2023-02-19T18:46:34.307Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "6",
+        "object_repr": "General Knowledge",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2023-02-19T18:46:59.051Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "5",
+        "object_repr": "Religion & History",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2023-02-19T19:15:06.848Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Regina Falangi",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e \\u043a\\u043b\\u0430\\u0441\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2023-02-19T19:15:07.160Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Ken Adams",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e \\u043a\\u043b\\u0430\\u0441\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2023-02-19T19:15:07.904Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Jane Doe",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0424\\u043e\\u0442\\u043e \\u043a\\u043b\\u0430\\u0441\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2023-02-21T16:53:01.551Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "1",
+        "object_repr": "Facilities object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2023-02-21T17:11:31.769Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "1",
+        "object_repr": "Become A Teacher",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2023-02-21T17:26:24.311Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Gallery object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2023-02-21T17:26:41.902Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "2",
+        "object_repr": "Gallery object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2023-02-21T17:27:03.123Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "3",
+        "object_repr": "Gallery object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2023-02-21T17:27:21.867Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "4",
+        "object_repr": "Gallery object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2023-02-21T17:27:41.370Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "5",
+        "object_repr": "Gallery object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2023-02-21T17:28:01.208Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "6",
+        "object_repr": "Gallery object (6)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2023-02-21T18:07:20.046Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "1",
+        "object_repr": "Contacts object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2023-02-22T20:33:48.583Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "4",
+        "object_repr": "shamansky1225@gmail.com: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2023-02-22T20:33:48.827Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "3",
+        "object_repr": "фівфівф: test@test.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2023-02-22T20:33:49.281Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "2",
+        "object_repr": "shamansky1225@gmail.com: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2023-02-22T20:33:49.417Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "1",
+        "object_repr": "Станіслав: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2023-02-22T21:31:47.836Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Gallery object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u043d\\u044f\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2023-02-22T21:31:48.449Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "2",
+        "object_repr": "Gallery object (2)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u043d\\u044f\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2023-02-22T21:31:48.860Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "3",
+        "object_repr": "Gallery object (3)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u043d\\u044f\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2023-02-22T21:31:49.307Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "5",
+        "object_repr": "Gallery object (5)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u043d\\u044f\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2023-02-22T21:31:49.900Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "6",
+        "object_repr": "Gallery object (6)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0417\\u043e\\u0431\\u0440\\u0430\\u0436\\u0435\\u043d\\u043d\\u044f\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2023-02-22T23:08:20.716Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "6",
+        "object_repr": "SASAAAm: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2023-02-22T23:08:20.818Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "5",
+        "object_repr": "cdsfsdf: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2023-02-23T15:34:44.788Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "4",
+        "object_repr": "2023-02-23: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2023-02-23T15:34:45.043Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "3",
+        "object_repr": "2023-02-23: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2023-02-23T15:34:45.181Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "2",
+        "object_repr": "2023-02-23: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2023-02-23T15:34:45.365Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "1",
+        "object_repr": "2023-02-23: test@test.ua",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2023-02-23T15:35:32.193Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "7",
+        "object_repr": "test@test.com: test@test.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2023-02-23T15:43:07.037Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "6",
+        "object_repr": "2023-02-23: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2023-02-23T15:49:09.810Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "7",
+        "object_repr": "2023-02-23: CON@com.ua",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2023-02-23T15:49:30.419Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "9",
+        "object_repr": "shamansky1225@gmail.com: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2023-02-23T15:49:30.605Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "8",
+        "object_repr": "shamansky1225@gmail.com: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+        "action_time": "2023-02-23T18:44:56.278Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "8",
+        "object_repr": "2023-02-23: CON@com.ua",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+        "action_time": "2023-02-23T18:44:56.710Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "5",
+        "object_repr": "2023-02-23: test2@test.ya",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+        "action_time": "2023-02-23T18:47:24.097Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "11",
+        "object_repr": "shamansky1225@gmail.com: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+        "action_time": "2023-02-23T18:47:24.279Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "10",
+        "object_repr": "shamansky1225@gmail.com: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+        "action_time": "2023-02-23T18:47:44.182Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "9",
+        "object_repr": "2023-02-23: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+        "action_time": "2023-02-23T18:57:26.097Z",
+        "user": 1,
+        "content_type": 18,
+        "object_id": "1",
+        "object_repr": "Станіслав: test_adin@test.ua",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+        "action_time": "2023-02-23T19:12:00.625Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "12",
+        "object_repr": "2023-02-23: contact@rera.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+        "action_time": "2023-02-23T19:12:00.938Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "11",
+        "object_repr": "2023-02-23: contact@rera.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+        "action_time": "2023-02-23T20:25:37.646Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "17",
+        "object_repr": "shamansky1225@gmail.com: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+        "action_time": "2023-02-23T20:25:37.868Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "16",
+        "object_repr": "shamansky1225@gmail.com: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+        "action_time": "2023-02-23T20:25:38.088Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "15",
+        "object_repr": "shamansky1225@gmail.com: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+        "action_time": "2023-02-23T20:25:38.352Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "14",
+        "object_repr": "shamansky1225@gmail.com: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+        "action_time": "2023-02-23T20:25:38.588Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "13",
+        "object_repr": "shamansky1225@gmail.com: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+        "action_time": "2023-02-23T20:25:38.769Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "12",
+        "object_repr": "shamansky1225@gmail.com: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+        "action_time": "2023-02-23T20:26:04.642Z",
+        "user": 1,
+        "content_type": 18,
+        "object_id": "1",
+        "object_repr": "Станіслав: test_adin@test.ua",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 67,
+    "fields": {
+        "action_time": "2023-02-23T20:41:16.490Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "20",
+        "object_repr": "2023-02-23: test@test.ua",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 68,
+    "fields": {
+        "action_time": "2023-02-23T20:41:18.790Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "19",
+        "object_repr": "2023-02-23: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 69,
+    "fields": {
+        "action_time": "2023-02-23T20:41:18.974Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "18",
+        "object_repr": "2023-02-23: roman@joma-sport.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 70,
+    "fields": {
+        "action_time": "2023-02-23T20:41:19.315Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "17",
+        "object_repr": "2023-02-23: test@test.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 71,
+    "fields": {
+        "action_time": "2023-02-23T20:41:19.523Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "16",
+        "object_repr": "2023-02-23: contact@rera.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 72,
+    "fields": {
+        "action_time": "2023-02-23T20:41:19.659Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "15",
+        "object_repr": "2023-02-23: test@test.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 73,
+    "fields": {
+        "action_time": "2023-02-23T20:41:19.793Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "14",
+        "object_repr": "2023-02-23: roman@joma-sport.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 74,
+    "fields": {
+        "action_time": "2023-02-23T20:41:20.009Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "13",
+        "object_repr": "2023-02-23: roman@joma-sport.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 75,
+    "fields": {
+        "action_time": "2023-02-23T20:41:21.181Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "10",
+        "object_repr": "2023-02-23: contact@rera.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 76,
+    "fields": {
+        "action_time": "2023-02-23T20:42:28.896Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "19",
+        "object_repr": "shamansky1225@gmail.com: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 77,
+    "fields": {
+        "action_time": "2023-02-23T20:42:29.722Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "18",
+        "object_repr": "shamansky1225@gmail.com: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 78,
+    "fields": {
+        "action_time": "2023-02-23T20:57:59.267Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "22",
+        "object_repr": "2023-02-23: roman@joma-sport.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 79,
+    "fields": {
+        "action_time": "2023-02-23T20:57:59.381Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "21",
+        "object_repr": "2023-02-23: contact@rera.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 80,
+    "fields": {
+        "action_time": "2023-02-23T21:59:14.191Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "30",
+        "object_repr": "2023-02-23: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 81,
+    "fields": {
+        "action_time": "2023-02-23T21:59:14.554Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "29",
+        "object_repr": "2023-02-23: contact@rera.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 82,
+    "fields": {
+        "action_time": "2023-02-23T21:59:14.705Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "28",
+        "object_repr": "2023-02-23: test@test.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 83,
+    "fields": {
+        "action_time": "2023-02-23T21:59:14.832Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "26",
+        "object_repr": "2023-02-23: roman@joma-sport.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 84,
+    "fields": {
+        "action_time": "2023-02-23T21:59:14.956Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "25",
+        "object_repr": "2023-02-23: roman@joma-sport.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 85,
+    "fields": {
+        "action_time": "2023-02-23T21:59:15.122Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "24",
+        "object_repr": "2023-02-23: roman@joma-sport.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 86,
+    "fields": {
+        "action_time": "2023-02-23T21:59:15.315Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "23",
+        "object_repr": "2023-02-23: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 87,
+    "fields": {
+        "action_time": "2023-02-23T22:19:11.911Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "20",
+        "object_repr": "shamansky1225@gmail.com: shamansky1225@gmail.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 88,
+    "fields": {
+        "action_time": "2023-02-23T22:19:43.185Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "31",
+        "object_repr": "2023-02-23: tesr@dasda.yt",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 89,
+    "fields": {
+        "action_time": "2023-02-23T22:19:43.328Z",
+        "user": 1,
+        "content_type": 17,
+        "object_id": "27",
+        "object_repr": "2023-02-23: test@test.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 90,
+    "fields": {
+        "action_time": "2023-02-25T17:16:59.163Z",
+        "user": 1,
+        "content_type": 19,
+        "object_id": "1",
+        "object_repr": "Lessons schedule",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 91,
+    "fields": {
+        "action_time": "2023-02-25T17:17:19.919Z",
+        "user": 1,
+        "content_type": 19,
+        "object_id": "1",
+        "object_repr": "Lessons schedule",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"\\u0422\\u0435\\u043a\\u0441\\u0442\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 92,
+    "fields": {
+        "action_time": "2023-02-25T17:57:35.652Z",
+        "user": 1,
+        "content_type": 4,
+        "object_id": "2",
+        "object_repr": "est",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 93,
+    "fields": {
+        "action_time": "2023-02-25T17:57:35.978Z",
+        "user": 1,
+        "content_type": 4,
+        "object_id": "3",
+        "object_repr": "user1",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 94,
+    "fields": {
+        "action_time": "2023-02-25T17:57:36.126Z",
+        "user": 1,
+        "content_type": 4,
+        "object_id": "4",
+        "object_repr": "user2",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 95,
+    "fields": {
+        "action_time": "2023-02-25T17:57:36.300Z",
+        "user": 1,
+        "content_type": 4,
+        "object_id": "5",
+        "object_repr": "user3",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 96,
+    "fields": {
+        "action_time": "2023-02-25T17:57:36.488Z",
+        "user": 1,
+        "content_type": 4,
+        "object_id": "6",
+        "object_repr": "user4",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 97,
+    "fields": {
+        "action_time": "2023-02-25T17:57:36.651Z",
+        "user": 1,
+        "content_type": 4,
+        "object_id": "7",
+        "object_repr": "user5",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 98,
+    "fields": {
+        "action_time": "2023-02-25T18:01:01.782Z",
+        "user": 1,
+        "content_type": 3,
+        "object_id": "1",
+        "object_repr": "manager",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 99,
+    "fields": {
+        "action_time": "2023-02-25T18:01:27.230Z",
+        "user": 1,
+        "content_type": 4,
+        "object_id": "8",
+        "object_repr": "user6",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Groups\", \"User permissions\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 100,
+    "fields": {
+        "action_time": "2023-02-25T19:20:11.628Z",
+        "user": 1,
+        "content_type": 18,
+        "object_id": "2",
+        "object_repr": "das: contact@rera.com",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 101,
+    "fields": {
+        "action_time": "2023-02-25T19:50:01.338Z",
+        "user": 1,
+        "content_type": 20,
+        "object_id": "1",
+        "object_repr": "School Facilities",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add team",
+        "content_type": 7,
+        "codename": "add_team"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change team",
+        "content_type": 7,
+        "codename": "change_team"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete team",
+        "content_type": 7,
+        "codename": "delete_team"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view team",
+        "content_type": 7,
+        "codename": "view_team"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add slider",
+        "content_type": 8,
+        "codename": "add_slider"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change slider",
+        "content_type": 8,
+        "codename": "change_slider"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete slider",
+        "content_type": 8,
+        "codename": "delete_slider"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view slider",
+        "content_type": 8,
+        "codename": "view_slider"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add about",
+        "content_type": 9,
+        "codename": "add_about"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change about",
+        "content_type": 9,
+        "codename": "change_about"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete about",
+        "content_type": 9,
+        "codename": "delete_about"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view about",
+        "content_type": 9,
+        "codename": "view_about"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add testimonial",
+        "content_type": 10,
+        "codename": "add_testimonial"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change testimonial",
+        "content_type": 10,
+        "codename": "change_testimonial"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete testimonial",
+        "content_type": 10,
+        "codename": "delete_testimonial"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view testimonial",
+        "content_type": 10,
+        "codename": "view_testimonial"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+        "name": "Can add classes",
+        "content_type": 11,
+        "codename": "add_classes"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+        "name": "Can change classes",
+        "content_type": 11,
+        "codename": "change_classes"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+        "name": "Can delete classes",
+        "content_type": 11,
+        "codename": "delete_classes"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+        "name": "Can view classes",
+        "content_type": 11,
+        "codename": "view_classes"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+        "name": "Can add facilities",
+        "content_type": 12,
+        "codename": "add_facilities"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+        "name": "Can change facilities",
+        "content_type": 12,
+        "codename": "change_facilities"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+        "name": "Can delete facilities",
+        "content_type": 12,
+        "codename": "delete_facilities"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+        "name": "Can view facilities",
+        "content_type": 12,
+        "codename": "view_facilities"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+        "name": "Can add call",
+        "content_type": 13,
+        "codename": "add_call"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+        "name": "Can change call",
+        "content_type": 13,
+        "codename": "change_call"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+        "name": "Can delete call",
+        "content_type": 13,
+        "codename": "delete_call"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+        "name": "Can view call",
+        "content_type": 13,
+        "codename": "view_call"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+        "name": "Can add gallery",
+        "content_type": 14,
+        "codename": "add_gallery"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+        "name": "Can change gallery",
+        "content_type": 14,
+        "codename": "change_gallery"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+        "name": "Can delete gallery",
+        "content_type": 14,
+        "codename": "delete_gallery"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+        "name": "Can view gallery",
+        "content_type": 14,
+        "codename": "view_gallery"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+        "name": "Can add contacts",
+        "content_type": 15,
+        "codename": "add_contacts"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+        "name": "Can change contacts",
+        "content_type": 15,
+        "codename": "change_contacts"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+        "name": "Can delete contacts",
+        "content_type": 15,
+        "codename": "delete_contacts"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+        "name": "Can view contacts",
+        "content_type": 15,
+        "codename": "view_contacts"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+        "name": "Can add appointment",
+        "content_type": 16,
+        "codename": "add_appointment"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+        "name": "Can change appointment",
+        "content_type": 16,
+        "codename": "change_appointment"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+        "name": "Can delete appointment",
+        "content_type": 16,
+        "codename": "delete_appointment"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+        "name": "Can view appointment",
+        "content_type": 16,
+        "codename": "view_appointment"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 65,
+    "fields": {
+        "name": "Can add subscription",
+        "content_type": 17,
+        "codename": "add_subscription"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 66,
+    "fields": {
+        "name": "Can change subscription",
+        "content_type": 17,
+        "codename": "change_subscription"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 67,
+    "fields": {
+        "name": "Can delete subscription",
+        "content_type": 17,
+        "codename": "delete_subscription"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 68,
+    "fields": {
+        "name": "Can view subscription",
+        "content_type": 17,
+        "codename": "view_subscription"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 69,
+    "fields": {
+        "name": "Can add contact us",
+        "content_type": 18,
+        "codename": "add_contactus"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 70,
+    "fields": {
+        "name": "Can change contact us",
+        "content_type": 18,
+        "codename": "change_contactus"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 71,
+    "fields": {
+        "name": "Can delete contact us",
+        "content_type": 18,
+        "codename": "delete_contactus"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 72,
+    "fields": {
+        "name": "Can view contact us",
+        "content_type": 18,
+        "codename": "view_contactus"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 73,
+    "fields": {
+        "name": "Can add schedule",
+        "content_type": 19,
+        "codename": "add_schedule"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 74,
+    "fields": {
+        "name": "Can change schedule",
+        "content_type": 19,
+        "codename": "change_schedule"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 75,
+    "fields": {
+        "name": "Can delete schedule",
+        "content_type": 19,
+        "codename": "delete_schedule"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 76,
+    "fields": {
+        "name": "Can view schedule",
+        "content_type": 19,
+        "codename": "view_schedule"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 77,
+    "fields": {
+        "name": "Can add headlines",
+        "content_type": 20,
+        "codename": "add_headlines"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 78,
+    "fields": {
+        "name": "Can change headlines",
+        "content_type": 20,
+        "codename": "change_headlines"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 79,
+    "fields": {
+        "name": "Can delete headlines",
+        "content_type": 20,
+        "codename": "delete_headlines"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 80,
+    "fields": {
+        "name": "Can view headlines",
+        "content_type": 20,
+        "codename": "view_headlines"
+    }
+},
+{
+    "model": "auth.group",
+    "pk": 1,
+    "fields": {
+        "name": "manager",
+        "permissions": [
+            1,
+            2,
+            3,
+            4,
+            9,
+            10,
+            11,
+            12,
+            5,
+            6,
+            7,
+            8,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            33,
+            34,
+            35,
+            36,
+            61,
+            62,
+            63,
+            64,
+            49,
+            50,
+            51,
+            52,
+            41,
+            42,
+            43,
+            44,
+            57,
+            58,
+            59,
+            60,
+            69,
+            70,
+            71,
+            72,
+            45,
+            46,
+            47,
+            48,
+            53,
+            54,
+            55,
+            56,
+            73,
+            74,
+            75,
+            76,
+            29,
+            30,
+            31,
+            32,
+            65,
+            66,
+            67,
+            68,
+            25,
+            26,
+            27,
+            28,
+            37,
+            38,
+            39,
+            40,
+            21,
+            22,
+            23,
+            24
+        ]
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$390000$blvvnVWFKQjEMq2agi5xuk$mDkQ6+T+GS0bAbd0urNKW24DeZ0oui7rfBt39iKKB1s=",
+        "last_login": "2023-02-25T19:19:52.940Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-02-18T11:14:42.004Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 8,
+    "fields": {
+        "password": "pbkdf2_sha256$390000$lxUFW0OcuCDWwYa3Jv6MJn$1jHjwokBcYuqkVYdjOtUoVhNUER3D3Kyl1QHOnfNScg=",
+        "last_login": "2023-02-28T21:12:37.539Z",
+        "is_superuser": false,
+        "username": "user6",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2023-02-25T16:06:50Z",
+        "groups": [
+            1
+        ],
+        "user_permissions": [
+            1,
+            2,
+            3,
+            4,
+            9,
+            10,
+            11,
+            12,
+            5,
+            6,
+            7,
+            8,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            33,
+            34,
+            35,
+            36,
+            61,
+            62,
+            63,
+            64,
+            49,
+            50,
+            51,
+            52,
+            41,
+            42,
+            43,
+            44,
+            57,
+            58,
+            59,
+            60,
+            69,
+            70,
+            71,
+            72,
+            45,
+            46,
+            47,
+            48,
+            53,
+            54,
+            55,
+            56,
+            73,
+            74,
+            75,
+            76,
+            29,
+            30,
+            31,
+            32,
+            65,
+            66,
+            67,
+            68,
+            25,
+            26,
+            27,
+            28,
+            37,
+            38,
+            39,
+            40,
+            21,
+            22,
+            23,
+            24
+        ]
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "main_page",
+        "model": "team"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "main_page",
+        "model": "slider"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "main_page",
+        "model": "about"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "main_page",
+        "model": "testimonial"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+        "app_label": "main_page",
+        "model": "classes"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+        "app_label": "main_page",
+        "model": "facilities"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 13,
+    "fields": {
+        "app_label": "main_page",
+        "model": "call"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 14,
+    "fields": {
+        "app_label": "main_page",
+        "model": "gallery"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 15,
+    "fields": {
+        "app_label": "main_page",
+        "model": "contacts"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 16,
+    "fields": {
+        "app_label": "main_page",
+        "model": "appointment"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 17,
+    "fields": {
+        "app_label": "main_page",
+        "model": "subscription"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 18,
+    "fields": {
+        "app_label": "main_page",
+        "model": "contactus"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 19,
+    "fields": {
+        "app_label": "main_page",
+        "model": "schedule"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 20,
+    "fields": {
+        "app_label": "main_page",
+        "model": "headlines"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "t9r3l0b877a64v75ybxhwf3r117j6smf",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSHA8HTp3m8gMAxSNTQp7cr479qkC93ec859sZi2tcVt0BKnws7Ms9PvlhM-qO-g3FO_zRznvi5T5rvCDzr4dS70vBzu30FLo33rLGWg6shqW1CDQCckoVJAyTsHORRfAwgRwIJRWuQihTIOnPFVo5Ts_QHR-zaz:1pX7H3:a8g9y9YN-8KxoAjc6erU5BLDxV0dvRvjrDs_uFwuFhk",
+        "expire_date": "2023-03-14T21:12:37.790Z"
+    }
+},
+{
+    "model": "main_page.team",
+    "pk": 1,
+    "fields": {
+        "name": "Regina Falangi",
+        "profession": "Teacher",
+        "position": 1,
+        "is_visible": true,
+        "image": "team/e4ed6d48-3d1e-4e09-98ec-a7a611713a26.jpg",
+        "desc": "",
+        "image_clas": "team/3f2db29b-f90a-4b3d-9ae6-f86c99bc9a97.jpg",
+        "twi_url": "https://twitter.com/",
+        "fb_url": "https://www.facebook.com/",
+        "in_url": "https://www.linkedin.com/"
+    }
+},
+{
+    "model": "main_page.team",
+    "pk": 2,
+    "fields": {
+        "name": "Ken Adams",
+        "profession": "Teacher",
+        "position": 2,
+        "is_visible": true,
+        "image": "team/eb983a98-0d4a-40d2-83e2-00b8056f23f0.jpg",
+        "desc": "",
+        "image_clas": "team/789ab63d-7e62-4737-be42-a24d3f335222.jpg",
+        "twi_url": "https://twitter.com/",
+        "fb_url": "https://www.facebook.com/",
+        "in_url": "https://www.linkedin.com/"
+    }
+},
+{
+    "model": "main_page.team",
+    "pk": 3,
+    "fields": {
+        "name": "Jane Doe",
+        "profession": "Teacher",
+        "position": 3,
+        "is_visible": true,
+        "image": "team/a038ea6f-6e46-4ca8-b79b-8b840ba6d062.jpg",
+        "desc": "",
+        "image_clas": "team/99190a01-163b-4a1c-b3b5-391853124137.jpg",
+        "twi_url": "https://twitter.com/",
+        "fb_url": "https://www.facebook.com/",
+        "in_url": "https://www.linkedin.com/"
+    }
+},
+{
+    "model": "main_page.slider",
+    "pk": 1,
+    "fields": {
+        "title": "carousel-1",
+        "position": 1,
+        "image": "slider/d68d52d9-17cc-4128-af18-c106eb5d4b30.jpg",
+        "is_visible": true,
+        "h_1": "The Best Kindergarten School For Your Child",
+        "desc": "Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.",
+        "tab_1": "Learn More",
+        "tab_1_url": "",
+        "tab_2": "Our Classes",
+        "tab_2_url": ""
+    }
+},
+{
+    "model": "main_page.slider",
+    "pk": 2,
+    "fields": {
+        "title": "carousel-2",
+        "position": 2,
+        "image": "slider/66d540a6-b5be-4383-91e0-a900c48dbeca.jpg",
+        "is_visible": true,
+        "h_1": "Make A Brighnter Future For Your Child",
+        "desc": "Vero elitr justo clita lorem. Ipsum dolor at sed stet sit diam no. Kasd rebum ipsum et diam justo clita et kasd rebum sea elitr.",
+        "tab_1": "Learn More",
+        "tab_1_url": "",
+        "tab_2": "Our Classes",
+        "tab_2_url": ""
+    }
+},
+{
+    "model": "main_page.about",
+    "pk": 1,
+    "fields": {
+        "h1": "Learn More About Our Work And Our Cultural Activities",
+        "desc": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos.\r\nClita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet\r\n\r\nStet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet est diam rebum amet diam ipsum. Clita clita labore, dolor duo nonumy clita sit at, sed sit sanctus dolor eos, ipsum labore duo duo sit no sea diam.\r\nEt dolor et kasd ea. Eirmod diam at dolor est vero nonumy magna.",
+        "tab": "Read More",
+        "user": "Jhon Doe",
+        "pos_user": "CEO & Founder",
+        "img_user": "slider/0c53395b-d8a3-4931-ae0a-8ef9ea535dea.jpg",
+        "is_visible": true,
+        "img_1": "slider/45e3f19f-808e-49c2-8273-d35572999102.jpg",
+        "img_2": "slider/d5bd762b-0c8e-4028-b968-2fe09b3b1e67.jpg",
+        "img_3": "slider/873563d1-3243-4cf9-9c33-b13417c3017a.jpg"
+    }
+},
+{
+    "model": "main_page.testimonial",
+    "pk": 1,
+    "fields": {
+        "name": "Sara Wilsson",
+        "profession": "Manager",
+        "position": 1,
+        "is_visible": true,
+        "image": "slider/3a8b6838-dd55-4e7b-bde9-60e2a14de350.jpg",
+        "desc": "Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd erat eos"
+    }
+},
+{
+    "model": "main_page.testimonial",
+    "pk": 2,
+    "fields": {
+        "name": "Saul Goodman",
+        "profession": "Doctor",
+        "position": 2,
+        "is_visible": true,
+        "image": "slider/60102905-0770-45b1-a079-58af4f461986.jpg",
+        "desc": "Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd erat eos"
+    }
+},
+{
+    "model": "main_page.testimonial",
+    "pk": 3,
+    "fields": {
+        "name": "Unknow artist",
+        "profession": "musician",
+        "position": 3,
+        "is_visible": true,
+        "image": "slider/46b5f7af-f118-4f07-a91d-532e9fe32ec7.jpg",
+        "desc": "Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd erat eos"
+    }
+},
+{
+    "model": "main_page.classes",
+    "pk": 1,
+    "fields": {
+        "title": "Art & Drawing",
+        "price": "99.00",
+        "image": "classes/18b56e08-63f0-40bd-b86b-98261a1b922c.jpg",
+        "position": 1,
+        "is_visible": true,
+        "teacher": 1,
+        "age": "3-5 Years",
+        "time": "9-10 AM",
+        "capacity": "30 Kids"
+    }
+},
+{
+    "model": "main_page.classes",
+    "pk": 2,
+    "fields": {
+        "title": "Color Management",
+        "price": "99.00",
+        "image": "classes/06585ea6-ed92-4be1-bd24-b1e1e3f88e11.jpg",
+        "position": 2,
+        "is_visible": true,
+        "teacher": 2,
+        "age": "3-5 Years",
+        "time": "9-10 AM",
+        "capacity": "30 Kids"
+    }
+},
+{
+    "model": "main_page.classes",
+    "pk": 3,
+    "fields": {
+        "title": "Athletic & Dance",
+        "price": "99.00",
+        "image": "classes/bc641e3f-4c97-4b07-8d63-5595f950e3d8.jpg",
+        "position": 3,
+        "is_visible": true,
+        "teacher": 3,
+        "age": "3-5 Years",
+        "time": "9-10 AM",
+        "capacity": "30 Kids"
+    }
+},
+{
+    "model": "main_page.classes",
+    "pk": 4,
+    "fields": {
+        "title": "Language & Speaking",
+        "price": "99.00",
+        "image": "classes/11ffbfcd-f780-4c31-9beb-bf3825065bec.jpg",
+        "position": 4,
+        "is_visible": true,
+        "teacher": 1,
+        "age": "3-5 Years",
+        "time": "9-10 AM",
+        "capacity": "30 Kids"
+    }
+},
+{
+    "model": "main_page.classes",
+    "pk": 5,
+    "fields": {
+        "title": "Religion & History",
+        "price": "99.00",
+        "image": "classes/7a58ef91-1a1f-4d3d-8914-17c5742203ee.jpg",
+        "position": 5,
+        "is_visible": true,
+        "teacher": 2,
+        "age": "3-5 Years",
+        "time": "9-10 AM",
+        "capacity": "30 Kids"
+    }
+},
+{
+    "model": "main_page.classes",
+    "pk": 6,
+    "fields": {
+        "title": "General Knowledge",
+        "price": "99.00",
+        "image": "classes/97a7ceb9-9f86-453e-bc25-f7e8079be444.jpg",
+        "position": 6,
+        "is_visible": true,
+        "teacher": 3,
+        "age": "3-5 Years",
+        "time": "9-10 AM",
+        "capacity": "30 Kids"
+    }
+},
+{
+    "model": "main_page.facilities",
+    "pk": 1,
+    "fields": {
+        "h1_col_1": "School Bus",
+        "desc_col_1": "Eirmod sed ipsum dolor sit rebum magna erat lorem kasd vero ipsum sit",
+        "h1_col_2": "Playground",
+        "desc_col_2": "Eirmod sed ipsum dolor sit rebum magna erat lorem kasd vero ipsum sit",
+        "h1_col_3": "Healthy Canteen",
+        "desc_col_3": "Eirmod sed ipsum dolor sit rebum magna erat lorem kasd vero ipsum sit",
+        "h1_col_4": "Positive Learning",
+        "desc_col_4": "Eirmod sed ipsum dolor sit rebum magna erat lorem kasd vero ipsum sit",
+        "position": 1,
+        "is_visible": true
+    }
+},
+{
+    "model": "main_page.call",
+    "pk": 1,
+    "fields": {
+        "title": "Become A Teacher",
+        "desc": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos.\r\n Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet",
+        "image": "classes/eff15321-0664-493e-8d81-1c4530fdd130.jpg",
+        "position": 1,
+        "is_visible": true,
+        "tab_1": "Get Started Now",
+        "tab_1_url": ""
+    }
+},
+{
+    "model": "main_page.gallery",
+    "pk": 1,
+    "fields": {
+        "image": "gallery/f31cceed-c9f6-487c-b199-af089410a9a7.jpg",
+        "position": 1,
+        "is_visible": true
+    }
+},
+{
+    "model": "main_page.gallery",
+    "pk": 2,
+    "fields": {
+        "image": "gallery/aead3313-d7d5-4714-b45e-3eea9ebf4bb4.jpg",
+        "position": 2,
+        "is_visible": true
+    }
+},
+{
+    "model": "main_page.gallery",
+    "pk": 3,
+    "fields": {
+        "image": "gallery/d8b16c47-ac1d-4596-aef5-1e807dc4a131.jpg",
+        "position": 3,
+        "is_visible": true
+    }
+},
+{
+    "model": "main_page.gallery",
+    "pk": 4,
+    "fields": {
+        "image": "classes/d7b8b4f0-b293-471f-b119-10dde6d95028.jpg",
+        "position": 4,
+        "is_visible": true
+    }
+},
+{
+    "model": "main_page.gallery",
+    "pk": 5,
+    "fields": {
+        "image": "gallery/a174522e-7940-45b1-8987-a9180d592f4d.jpg",
+        "position": 5,
+        "is_visible": true
+    }
+},
+{
+    "model": "main_page.gallery",
+    "pk": 6,
+    "fields": {
+        "image": "gallery/ce9a4639-f7d7-405c-a3c7-4dbc9c56ac13.jpg",
+        "position": 6,
+        "is_visible": true
+    }
+},
+{
+    "model": "main_page.contacts",
+    "pk": 1,
+    "fields": {
+        "h1": "Get In Touch",
+        "address": "123 Street, New York, USA",
+        "phone": "+012 345 67890",
+        "email": "info@example.com",
+        "twi_url": "https://www.twitter.com/",
+        "fb_url": "https://www.facebook.com/",
+        "youtube_url": "https://www.youtube.com/",
+        "in_url": "https://www.linkedin.com/"
+    }
+},
+{
+    "model": "main_page.appointment",
+    "pk": 21,
+    "fields": {
+        "name": "name",
+        "email": "test@test.com",
+        "child_name": "name",
+        "child_age": 2,
+        "message": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet Stet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet",
+        "date": "2023-02-25",
+        "date_processing": "2023-02-25",
+        "is_processed": false
+    }
+},
+{
+    "model": "main_page.appointment",
+    "pk": 22,
+    "fields": {
+        "name": "opa",
+        "email": "test@test.com",
+        "child_name": "opa",
+        "child_age": 1,
+        "message": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet Stet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet",
+        "date": "2023-02-25",
+        "date_processing": "2023-02-25",
+        "is_processed": false
+    }
+},
+{
+    "model": "main_page.appointment",
+    "pk": 23,
+    "fields": {
+        "name": "ska",
+        "email": "test@test.com",
+        "child_name": "eska",
+        "child_age": 2,
+        "message": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet Stet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet",
+        "date": "2023-02-25",
+        "date_processing": "2023-02-25",
+        "is_processed": false
+    }
+},
+{
+    "model": "main_page.subscription",
+    "pk": 32,
+    "fields": {
+        "email": "test@test.com",
+        "date": "2023-02-25",
+        "date_processing": "2023-02-25",
+        "is_processed": false
+    }
+},
+{
+    "model": "main_page.subscription",
+    "pk": 33,
+    "fields": {
+        "email": "roman@jo.com",
+        "date": "2023-02-25",
+        "date_processing": "2023-02-25",
+        "is_processed": false
+    }
+},
+{
+    "model": "main_page.subscription",
+    "pk": 34,
+    "fields": {
+        "email": "test@test.com",
+        "date": "2023-02-25",
+        "date_processing": "2023-02-25",
+        "is_processed": false
+    }
+},
+{
+    "model": "main_page.contactus",
+    "pk": 3,
+    "fields": {
+        "name": "ska",
+        "email": "test@test.com",
+        "message": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet Stet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet est diam rebum amet diam ipsum. Clita clita labor",
+        "subject": "tema",
+        "date": "2023-02-25",
+        "date_processing": "2023-02-25",
+        "is_processed": false
+    }
+},
+{
+    "model": "main_page.contactus",
+    "pk": 4,
+    "fields": {
+        "name": "name",
+        "email": "contact@rera.com",
+        "message": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet Stet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet est diam rebum amet diam ipsum. Clita clita labor",
+        "subject": "tema",
+        "date": "2023-02-25",
+        "date_processing": "2023-02-25",
+        "is_processed": false
+    }
+},
+{
+    "model": "main_page.contactus",
+    "pk": 5,
+    "fields": {
+        "name": "tema",
+        "email": "test@test.com",
+        "message": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet Stet no et lorem dolor et diam, amet duo ut dolore vero eos. No stet est diam rebum amet diam ipsum. Clita clita labor",
+        "subject": "tema",
+        "date": "2023-02-25",
+        "date_processing": "2023-02-25",
+        "is_processed": true
+    }
+},
+{
+    "model": "main_page.headlines",
+    "pk": 1,
+    "fields": {
+        "title_facilities": "School Facilities",
+        "desc_facilities": "Eirmod sed ipsum dolor sit rebum labore magna erat. Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo.",
+        "title_classes": "School Classes",
+        "desc_classes": "Eirmod sed ipsum dolor sit rebum labore magna erat. Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo.",
+        "title_teachers": "Popular Teachers",
+        "desc_teachers": "Eirmod sed ipsum dolor sit rebum labore magna erat. Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo",
+        "title_testimonial": "Our Clients Say!",
+        "desc_testimonial": "Eirmod sed ipsum dolor sit rebum labore magna erat. Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo."
+    }
+},
+{
+    "model": "main_page.schedule",
+    "pk": 1,
+    "fields": {
+        "title": "Lessons schedule",
+        "desc": "Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos.\r\n Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet",
+        "image": "schedule/aa460da3-b22d-4905-a6f5-3d53efec53cd.jpg",
+        "position": 1,
+        "is_visible": true
+    }
+}
+]
