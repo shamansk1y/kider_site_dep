@@ -2402,7 +2402,7 @@
 },
 {
     "model": "main_page.team",
-    "pk": 1,
+    "pk": 1001,
     "fields": {
         "name": "Regina Falangi",
         "profession": "Teacher",
@@ -2418,7 +2418,7 @@
 },
 {
     "model": "main_page.team",
-    "pk": 2,
+    "pk": 1002,
     "fields": {
         "name": "Ken Adams",
         "profession": "Teacher",
@@ -2434,7 +2434,7 @@
 },
 {
     "model": "main_page.team",
-    "pk": 3,
+    "pk": 1003,
     "fields": {
         "name": "Jane Doe",
         "profession": "Teacher",
