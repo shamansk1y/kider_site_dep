@@ -46,35 +46,35 @@ def index(request):
     if request.method == 'POST':
         handle_post_request(request)
 
-    data, context = get_page_context(request)
+    data = get_page_context(request)
     return render(request, 'index.html', context=data)
 
 def about(request):
     if request.method == 'POST':
         handle_post_request(request)
 
-    data, context = get_page_context(request)
+    data = get_page_context(request)
     return render(request, 'about.html', context=data)
 
 def contacts(request):
     if request.method == 'POST':
         handle_post_request(request)
 
-    data, context = get_page_context(request)
+    data = get_page_context(request)
     return render(request, 'contact.html', context=data)
 
 def classes(request):
     if request.method == 'POST':
         handle_post_request(request)
 
-    data, context = get_page_context(request)
+    data = get_page_context(request)
     return render(request, 'classes.html', context=data)
 
 def join_us(request):
     if request.method == 'POST':
         handle_post_request(request)
 
-    data, context = get_page_context(request)
+    data = get_page_context(request)
     return render(request, 'join_us.html', context=data)
 
 
@@ -82,7 +82,7 @@ def schedule(request):
     if request.method == 'POST':
         handle_post_request(request)
 
-    data, context = get_page_context(request)
+    data = get_page_context(request)
     return render(request, 'schedule.html', context=data)
 
 

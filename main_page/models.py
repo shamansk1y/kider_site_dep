@@ -312,10 +312,10 @@ class Contacts(models.Model):
     address = models.CharField(max_length=50, verbose_name="Адреса")
     phone = models.CharField(max_length=50, verbose_name="Телефон")
     email = models.CharField(max_length=50, verbose_name="Пошта")
-    twi_url = models.URLField(blank=True, verbose_name="Посилання на twitter")
-    fb_url = models.URLField(blank=True, verbose_name="Посилання на facebook")
-    youtube_url = models.URLField(blank=True, verbose_name="Посилання на youtube")
-    in_url = models.URLField(blank=True, verbose_name="Посилання на LinkedIn")
+    twi_url = models.URLField(blank=True, verbose_name="Посилання на twitter", default='https://twitter.com/')
+    fb_url = models.URLField(blank=True, verbose_name="Посилання на facebook", default='https://www.facebook.com/')
+    youtube_url = models.URLField(blank=True, verbose_name="Посилання на youtube", default='https://www.youtube.com/')
+    in_url = models.URLField(blank=True, verbose_name="Посилання на LinkedIn", default='https://www.linkedin.com/')
 
     class Meta:
         ordering = ('h1',)

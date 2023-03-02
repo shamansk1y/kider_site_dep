@@ -19,18 +19,18 @@ def get_common_context():
     return {
         'slider': Slider.objects.filter(is_visible=True),
         'team': Team.objects.all()[:3],
-        'about': About.objects.all(),
+        'about': About.objects.get(id=1),
         'testimonial': Testimonial.objects.filter(is_visible=True),
         'classes': Classes.objects.all().order_by('?')[:6],
-        'facilities': Facilities.objects.all(),
-        'call': Call.objects.all(),
+        'facilities': Facilities.objects.get(id=1),
+        'call': Call.objects.get(id=1),
         'gallery': Gallery.objects.all().order_by('?')[:6],
-        'contacts': Contacts.objects.all(),
+        'contacts': Contacts.objects.get(id=1),
         'make_appointment': MakeAppointmentForm(),
         'subscription': SubscriptionForm(),
         'contact_us': ContactUsForm(),
-        'schedule': Schedule.objects.all(),
-        'headlines': Headlines.objects.all(),
+        'schedule': Schedule.objects.get(id=1),
+        'headlines': Headlines.objects.get(id=1),
     }
 
 
@@ -54,4 +54,4 @@ def get_page_context(request):
     }
     context = get_common_context()
     data.update(context)
-    return data, context
+    return data
