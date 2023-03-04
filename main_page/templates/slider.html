@@ -3,7 +3,7 @@
     <div class="owl-carousel header-carousel position-relative">
         {% for slide in slider %}
             <div class="owl-carousel-item position-relative">
-                <img class="img-fluid" src= {{ slide.image.url }} alt="{{ slide.h_1 }}">
+                <img class="img-fluid" src= {{ slide.image.url }} alt="{% static 'img/carousel-1.jpg' %}">
                 <div class="position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center" style="background: rgba(0, 0, 0, .2);">
                     <div class="container">
                         <div class="row justify-content-start">
