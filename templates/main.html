@@ -115,7 +115,7 @@
                         <div class="row g-2 pt-2">
                             {% for item in gallery %}
                                 <div class="col-4">
-                                    <img class="img-fluid rounded bg-light p-1" src={{ item.image.url }} alt="{% static 'img/classes-1.jpg' %}">
+                                <img class="img-fluid rounded bg-light p-1" src="{{ item.image.url }}" onerror="this.onerror=null;this.src='{% static 'img/classes-4.jpg' %}';" alt="{{ item.name }}">
                                 </div>
                             {% endfor %}
                         </div>
