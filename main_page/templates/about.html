@@ -14,7 +14,11 @@
                 <div class="row g-4 align-items-center">
                     <div class="col-sm-6">
                         <div class="d-flex align-items-center">
-                            <img class="rounded-circle flex-shrink-0" src={{ about.img_user.url }} alt="{% static 'img/about-1.jpg' %}" style="width: 45px; height: 45px;">
+                            {% if about.img_user %}
+                                <img class="rounded-circle flex-shrink-0" src={{ about.img_user.url }} alt="{{ about.h1 }}" style="width: 45px; height: 45px;">
+                            {% else %}
+                                <img class="rounded-circle flex-shrink-0" src="{% static 'img/about-1.jpg' %}" alt="{{ about.h1 }}" style="width: 45px; height: 45px;">
+                            {% endif %}
                             <div class="ms-3">
                                 <h6 class="text-primary mb-1">{{ about.user }}</h6>
                                 <small>{{ about.pos_user }}</small>
