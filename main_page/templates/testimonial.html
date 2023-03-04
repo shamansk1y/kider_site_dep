@@ -14,7 +14,8 @@ Start -->
                 <div class="testimonial-item bg-light rounded p-5">
                     <p class="fs-5">{{ item.desc }}</p>
                     <div class="d-flex align-items-center bg-white me-n5" style="border-radius: 50px 0 0 50px;">
-                        <img class="img-fluid flex-shrink-0 rounded-circle" src={{ item.image.url }} alt="{% static 'img/testimonial-2.jpg' %}" style="width: 90px; height: 90px;">
+                        <img class="img-fluid flex-shrink-0 rounded-circle" src="{{ item.image.url }}" onerror="this.onerror=null;this.src='{% static 'img/testimonial-1.jpg' %}';" alt="{{ item.name }}" style="width: 90px; height: 90px;">
+
                         <div class="ps-3">
                             <h3 class="mb-1">{{ item.name }}</h3>
                             <span>{{ item.profession }}</span>
